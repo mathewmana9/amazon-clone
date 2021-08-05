@@ -1,0 +1,19 @@
+.checkoutProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  background: #f0c14b;
+  border-radius: 8px;
+  padding: 5px 5px;
+  cursor: pointer;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111111;
+}
+button:hover {
+  background-color: transparent;
+}
